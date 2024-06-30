@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshPrajapati6603
-- 👀 I’m interested in ... Fronted Development
-- 🌱 I’m currently learning ...React.js
+- 👀 I’m interested in ... Full Stack Development
+- 🌱 I’m currently learning ...> .Net Core
 - 💞️ I’m looking to collaborate on ...web development projects
 - 📫 How to reach me ...Email:prajapatiharsh0606@gmail.com
 - LinkedIn:https://www.linkedin.com/in/harsh-prajapati-b74009285
